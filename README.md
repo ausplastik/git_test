@@ -1,0 +1,1 @@
+This is ausplastik's first git project
